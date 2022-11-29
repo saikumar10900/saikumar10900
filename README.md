@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Saikumar Bolisetti working as a Software Developer for Raja Software Labs Pvt Ltd.
+- 👋 Hi there, I’m Saikumar Bolisetti working as a Software Engineer for Raja Software Labs Pvt Ltd.
 - Checkout - <a href="https://saikumarb.ccbp.tech/" target="_blank">Portfolio</a> | <a href="https://www.linkedin.com/in/saikumar10900/" target="_blank">LinkedIn</a>
 
 <!---
