@@ -1,5 +1,6 @@
-- 👋 Hi there, I’m Saikumar Bolisetti working as a Software Engineer for Raja Software Labs Pvt Ltd, Pune.
-- I'm experienced at building interactive Web interfaces using modern frameworks like React, Ember with a focus on performance and accessibility.
+- 👋 Hello there, I’m Saikumar Bolisetti working as a Software Engineer for Raja Software Labs Pvt Ltd, Pune.
+- I'm experienced on building interactive Web interfaces using modern frameworks like React, Ember with a focus on performance and accessibility.
+- Proficient in Algorithms and Data Structures.
 - Checkout - <a href="https://www.linkedin.com/in/saikumar10900/" target="_blank">LinkedIn</a>
 
 <!---
