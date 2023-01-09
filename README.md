@@ -6,7 +6,7 @@
 - Proficient in writing semantic HTML, maintainable CSS (and SCSS), and modern JavaScript.
 - Experienced at building interactive Web interfaces with a focus on performance and accessibility.
 - Comfortable with frontend frameworks like React, and Ember and backend frameworks like Express (Node).
-- Skilled at single-page web app development using React and can write clean, efficient, and high-quality code.
+- Skilled at single-page web app development using React and can write clean, efficient, and high-quality production code.
 - Checkout - <a href="https://saikumarb.ccbp.tech/" target="_blank">Portfolio</a> | <a href="https://www.linkedin.com/in/saikumar10900/" target="_blank">LinkedIn</a>
 
 <!---
