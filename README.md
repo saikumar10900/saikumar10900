@@ -2,11 +2,12 @@
 - Working on a live website with over 100 million active users worldwide.
 - Improving the frontend, backend, and accessibility(w3c) features of the project based on the priority of the client.
 - Troubleshooting, analyzing, and debugging the issues that will improve the performance of the website.
-- Having strong hands-on expertise on the web, cross-browser and mobile-based interfaces.
+- Having strong hands-on expertise on the web, cross-browser and mobile-based interfaces. 
 - Proficient in writing semantic HTML, maintainable CSS (and SCSS), and modern JavaScript.
 - Experienced at building interactive Web interfaces with a focus on performance and accessibility.
+- Proficient at writing clean, efficient, high quality production code.
 - Comfortable with frontend frameworks like React, and Ember and backend frameworks like Express (Node).
-- Skilled at single-page web app development using React and can write clean, efficient, and high-quality production code.
+- Skilled at single-page web application development using React.
 - Checkout - <a href="https://saikumarb.ccbp.tech/" target="_blank">Portfolio</a> | <a href="https://www.linkedin.com/in/saikumar10900/" target="_blank">LinkedIn</a>
 
 <!---
