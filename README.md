@@ -7,7 +7,7 @@
 - Experienced at building interactive Web interfaces with a focus on performance and accessibility.
 - Proficient at writing clean, efficient, high quality production code.
 - Comfortable with frontend frameworks like React, and Ember and backend frameworks like Express (Node).
-- Skilled at single-page web application development using React.
+- Skilled at single-page web application development focused on performance and efficiency using React.
 - Checkout - <a href="https://saikumarb.ccbp.tech/" target="_blank">Portfolio</a> | <a href="https://www.linkedin.com/in/saikumar10900/" target="_blank">LinkedIn</a>
 
 <!---
