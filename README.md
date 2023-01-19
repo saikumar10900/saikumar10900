@@ -19,6 +19,10 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 </p>
 
+### Work & Social
+
+<a href="https://saikumarb.ccbp.tech/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Blogger&logoColor=white" /></a> <a href="https://www.linkedin.com/in/saikumar10900/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" /></a> <a href="https://wwww.hackerrank.com/saikumar10900" target="_blank"> <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-22222?style=flat&logo=hackerrank&logoColor=black" /> </a>
+
 ### Expertise:
 - Working on a live website with over 100 million active users worldwide.
 - Improving the frontend, backend, and accessibility(w3c) features of the project based on the priority of the client.
@@ -28,5 +32,4 @@
 - Experienced at building interactive Web interfaces with a focus on performance and accessibility.
 - Proficient at writing clean, efficient, high quality production code.
 - Comfortable with frontend frameworks like React, and Ember and backend frameworks like Express (Node).
-- Skilled at single-page web application development focused on performance and efficiency using React.
-- Checkout - <a href="https://saikumarb.ccbp.tech/" target="_blank">Portfolio</a> | <a href="https://www.linkedin.com/in/saikumar10900/" target="_blank">LinkedIn</a>
+- Skilled at single-page web application development focused on performance and efficiency using React. 0A66C2
