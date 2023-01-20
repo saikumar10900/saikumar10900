@@ -21,7 +21,9 @@
 
 ### Work & Social
 
-<a href="https://saikumarb.ccbp.tech/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Blogger&logoColor=white" /></a> <a href="https://www.linkedin.com/in/saikumar10900/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" /></a> <a href="https://wwww.hackerrank.com/saikumar10900" target="_blank"> <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-22222?style=flat&logo=hackerrank&logoColor=black" /> </a>
+<a href="https://saikumarb.ccbp.tech/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Blogger&logoColor=white" />
+<a href="https://wwww.hackerrank.com/saikumar10900" target="_blank"> <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-22222?style=flat&logo=hackerrank&logoColor=black" /> </a>
+</a> <a href="https://www.linkedin.com/in/saikumar10900/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" /></a>
 
 ### Expertise:
 - Working on a live website with over 100 million active users worldwide.
