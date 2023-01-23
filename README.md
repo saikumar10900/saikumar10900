@@ -27,7 +27,7 @@
 
 ### Expertise:
 - Working on a live website with over 100 million active users worldwide.
-- Improving the frontend, backend, and accessibility(w3c) features of the project based on the priority of the client.
+- Improving the frontend, backend, and accessibility(w3c) features of the project based on the priority.
 - Troubleshooting, analyzing, and debugging the issues that will improve the performance of the website.
 - Having strong hands-on expertise on the web, cross-browser and mobile-based interfaces. 
 - Proficient in writing semantic HTML, maintainable CSS (and SCSS), and modern JavaScript.
