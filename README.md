@@ -33,7 +33,7 @@
 - Proficient in writing semantic HTML, maintainable CSS (and SCSS), and modern JavaScript.
 - Experienced at building interactive Web interfaces with a focus on performance and accessibility.
 - Proficient at writing clean, efficient, high quality production code.
-- Comfortable with frontend frameworks like React, and Ember and backend frameworks like Express (Node).
+- Comfortable with frontend frameworks like React, Ember and backend frameworks like Express (Node).
 - Skilled in single-page web application development focused on performance and efficiency using React.
 
 
