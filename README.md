@@ -26,8 +26,8 @@
 </a> <a href="https://www.linkedin.com/in/saikumar10900/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" /></a>
 
 ### Expertise:
-- Working on a live website with over 100 million active users worldwide.
 - Proficient at writing clean, efficient, high-quality production code.
+- Working on a live website with over 100 million active users worldwide.
 - Improving the frontend, and backend features of the project based on priority from the client.
 - Troubleshooting, analyzing, and debugging the issues that improve the website's performance.
 - Having strong hands-on expertise on the web, cross-browser and mobile-based interfaces.
