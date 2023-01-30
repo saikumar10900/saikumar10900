@@ -27,13 +27,12 @@
 
 ### Expertise:
 - Working on a live website with over 100 million active users worldwide.
-- Improving the frontend, backend, and accessibility(w3c) features of the project.
-- Troubleshooting, analyzing, and debugging the issues that will improve the performance of the website.
-- Having strong hands-on expertise on the web, cross-browser and mobile-based interfaces. 
+- Proficient at writing clean, efficient, high-quality production code.
+- Improving the frontend, and backend features of the project based on priority from the client.
+- Troubleshooting, analyzing, and debugging the issues that improve the website's performance.
+- Having strong hands-on expertise on the web, cross-browser and mobile-based interfaces.
 - Proficient in writing semantic HTML, maintainable CSS (and SCSS), and modern JavaScript.
-- Experienced at building interactive Web interfaces with a focus on performance and accessibility.
-- Proficient at writing clean, efficient, high quality production code.
-- Comfortable with frontend frameworks like React, Ember and backend frameworks like Express (Node).
 - Skilled in single-page web application development focused on performance and efficiency using React.
-
+- Experienced at building interactive Web interfaces with a focus on performance and accessibility(w3c).
+- Comfortable with frontend frameworks like React, Ember and backend frameworks like Express (Node).
 
