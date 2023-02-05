@@ -1,6 +1,6 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="48" style="margin-bottom: 1px"/>
 
-# Hello there, I'm [Saikumar Bolisetti](https://saikumarb.ccbp.tech/) 🤓
+# Hi there, I'm [Saikumar Bolisetti](https://saikumarb.ccbp.tech/) 🤓
 
 ## I'm a Software Engineer 👨‍💻, currently working for [Raja Software Labs](https://www.rajasoftwarelabs.com/) 💼
 
