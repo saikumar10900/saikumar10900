@@ -1,8 +1,11 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="48" style="margin-bottom: 1px"/>
 
-# Hi there, I'm [Saikumar Bolisetti](https://saikumarb.ccbp.tech/) 🤓
+# Hi, I'm [Saikumar Bolisetti](https://saikumarb.ccbp.tech/) 🤓
 
 ## I'm a Software Engineer 👨‍💻, currently working for [Raja Software Labs](https://www.rajasoftwarelabs.com/) 💼
+
+<!-- <div style="text-align:center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="height:100px;width:100px;"/></div> -->
 
 ### Tech stack:
 <p>
@@ -24,6 +27,7 @@
 <a href="https://saikumarb.ccbp.tech/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Blogger&logoColor=white" />
 <a href="https://wwww.hackerrank.com/saikumar10900" target="_blank"> <img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-22222?style=flat&logo=hackerrank&logoColor=black" /> </a>
 </a> <a href="https://www.linkedin.com/in/saikumar10900/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" /></a>
+<a href="https://www.twitter.com/saikumar10900/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00ACEE?style=flat&logo=Twitter&logoColor=white" /></a>
 
 ### Expertise:
 - Proficient at writing clean, efficient, high-quality production code.
