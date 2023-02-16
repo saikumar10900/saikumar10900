@@ -30,15 +30,14 @@
 <a href="https://www.twitter.com/saikumar10900/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00ACEE?style=flat&logo=Twitter&logoColor=white" /></a>
 
 ### Expertise:
-- Proficient at writing clean, efficient, high-quality production code.
-- Working on a live website with over 100 million active users worldwide.
-- Improving the frontend, and backend features of the project based on priority from the client.
-- Troubleshooting, analyzing, and debugging the issues that improve the website's performance.
-- Having strong hands-on expertise on the web, cross-browser, and mobile-based interfaces.
-- Proficient in writing semantic HTML, maintainable CSS (and SCSS), and modern JavaScript.
-- Skilled in single-page web application development focused on performance and efficiency using React.
-- Experienced at building interactive Web interfaces with a focus on performance and accessibility(w3c).
-- Comfortable with frontend frameworks like React, and Ember and backend frameworks like Express (Node).
+- Working as a Software Engineer on a live web application with over 100 million active users worldwide.
+- Collaborate with cross-functional teams to ensure high code quality and performance standards are met.
+- Design and implement responsive and accessible web interfaces to meet WCAG 2.0 accessibility standards.
+- Troubleshoot, analyze, and debug the issues that provide a seamless user experience and enhance engagement.
+- Ensure that website is accessible, and functional across devices and platforms using responsive design principles.
+- Conduct testing, debugging, and utilize tools, and techniques to identify and resolve issues quickly and efficiently.
+- Active participation in team-wide code reviews and contribution to an internal knowledge base to improve overall
+code quality and maintainability.
 
 
 
