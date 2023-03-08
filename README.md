@@ -36,9 +36,8 @@
 - Design and implement responsive and accessible web interfaces to meet WCAG 2.0 accessibility standards.
 - Troubleshoot, analyze, and debug the issues that provide a seamless user experience and enhance engagement.
 - Ensure that website is accessible, and functional across devices and platforms using responsive design principles.
-- Conduct testing, debugging, and utilize tools, and techniques to identify and resolve issues quickly and efficiently.
-- Active participation in team-wide code reviews and contribution to an internal knowledge base to improve overall
-code quality and maintainability.
+- Conduct testing, and debugging, and utilize tools, and techniques to identify and resolve issues quickly and efficiently.
+- Participate actively in team-wide code reviews and contribute to an internal knowledge base to improve overall code quality and maintainability.
 
 
 
