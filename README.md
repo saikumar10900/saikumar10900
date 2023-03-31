@@ -34,10 +34,9 @@
 - Working as a Software Engineer on a live web application with over 100 million active users worldwide.
 - Collaborate with cross-functional teams to ensure high code quality and performance standards are met.
 - Design and implement responsive and accessible web interfaces to meet WCAG 2.0 accessibility standards.
-- Troubleshoot, analyze, and debug the issues that provide a seamless user experience and enhance engagement.
-- Ensure that the website is accessible, and functional across devices and platforms using responsive design principles.
+- Troubleshoot, analyze and debug the issues that provide a seamless user experience and enhance engagement.
+- Ensure the website is accessible, and functional across devices and platforms using responsive design principles.
 - Conduct testing, and debugging, and utilize tools, and techniques to identify and resolve issues quickly and efficiently.
-- Participate actively in team-wide code reviews and contribute to an internal knowledge base to improve overall code quality and maintainability.
-
+- Active participation in team-wide code reviews and contribute to an internal knowledge base to improve code quality and maintainability.
 
 
