@@ -33,7 +33,7 @@
 ### Expertise:
 - Working as a Software Engineer for a live web application with a global reach of over 100 million active users.
 - Collaborate cross-functionally with teams to optimize code quality and performance standards for impactful tasks.
-- Design, implement WCAG 2.0 compliant, responsive, and accessible web interfaces for exceptional user experiences.
+- Design, and implement WCAG 2.0 compliant, responsive, and accessible web interfaces for exceptional user experiences.
 - Leverage expert troubleshooting, analytical, and debugging skills to provide, and ensure seamless user experiences.
 - Ensures website accessibility and functionality across devices and platforms with responsive design principles.
 - Perform rigorous testing and debugging, utilizing cutting-edge tools to swiftly identify and resolve complex issues.
