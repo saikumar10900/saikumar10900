@@ -2,7 +2,7 @@
 
 # Hi, I'm [Saikumar Bolisetti](https://saikumarb.ccbp.tech/) 🤓
 
-## I'm a Software Engineer 👨‍💻, currently working for [Raja Software Labs](https://www.rajasoftwarelabs.com/) 💼
+## I'm a UI Developer 👨‍💻, currently working for [ThoughtWorks Technologies](https://www.thoughtworks.com/en-in) 💼
 
 <!-- <div style="text-align:center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="height:100px;width:100px;"/></div> -->
@@ -31,13 +31,17 @@
 <a href="https://www.twitter.com/saikumar10900/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00ACEE?style=flat&logo=Twitter&logoColor=white" /></a>
 
 ### Expertise:
-- Working as a Software Engineer for a live web application with a global reach of over 100 million active users.
+- Expertise in crafting semantic HTML, creating maintainable CSS (including SCSS), and developing modern JavaScript.
+- Proficient in developing cutting-edge, high-quality, production-ready single-page web applications using React.
+- Experienced in developing responsive, performant, accessible web interfaces that comply with W3C standards.
+- Well-versed in frontend frameworks like React, and Ember as well as backend frameworks like Express (Node).
+- Possess solid hands-on expertise in developing web, cross-browser, and mobile-based applications and interfaces.
 - Collaborate cross-functionally with teams to optimize code quality and performance standards for impactful tasks.
 - Design, and implement WCAG 2.0 compliant, responsive, and accessible web interfaces for exceptional user experiences.
 - Leverage expert troubleshooting, analytical, and debugging skills to provide, and ensure seamless user experiences.
 - Ensures website accessibility and functionality across devices and platforms with responsive design principles.
 - Perform rigorous testing and debugging, utilizing cutting-edge tools to swiftly identify and resolve complex issues.
-- Enhance code quality and maintainability through team code reviews and contribute to our internal knowledge base.
+- Enhance code quality and maintainability through team code reviews and contribute to the internal knowledge base.
 
 
 
